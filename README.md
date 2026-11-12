@@ -21,14 +21,5 @@ This Android application is designed to help users manage a travel packing list.
 
 
 ## Screenshots
-*   **Screen One:** (Input Screen)
-    *   [Insert Screenshot of App Input Screen]
-*   **Screen Two:** (Display Screen)
-    *   [Insert Screenshot of App Display Screen]
-*   **Source Code:** 
-    *   [Insert Screenshot of MainActivity.kt code]
+added
 
-## How to Run
-1. Clone the repository.
-2. Open in Android Studio.
-3. Run on an emulator or physical device.
